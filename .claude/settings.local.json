@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python -c ' *)",
+      "Bash(python -c \"import playwright; print\\(playwright.__file__\\)\")",
+      "Bash(python -m playwright --version)",
+      "Bash(pip install *)",
+      "Bash(python -m playwright install chromium)"
+    ]
+  }
+}

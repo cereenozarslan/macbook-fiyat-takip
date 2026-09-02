@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "macbook-fiyat-takibi": {
+      "command": "python",
+      "args": [
+        "mcp_server.py"
+      ],
+      "cwd": "c:\\Users\\Özarslan\\OneDrive\\PROJELER\\Macbook fiyat karşılaştırması-Telegram"
+    }
+  }
+}
